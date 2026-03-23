@@ -59,12 +59,13 @@ A multivariate Data Analysis project, examining sustainability performance acros
 ---
 
 ## Methodology
-
-**Data Collection** — EEA official dataset, 19 sustainability indicators across 27 EU member states.  
-**Data Preprocessing** — data integration, cleaning and missing value treatment in Excel and Python.  
-**Exploratory Data Analysis** — univariate and bivariate analysis to characterise distributions and relationships.  
-**Factor Analysis** — dimensionality reduction to three latent factors; factor scores saved to `yearly_country_factor_scores.csv`.  
-**Cluster Analysis** — country grouping based on factor scores to identify sustainability profiles.
+```
+1. **Data Collection** — EEA official dataset, 19 sustainability indicators across 27 EU member states
+2. **Data Preprocessing** — data integration, cleaning and missing value treatment in Excel and Python
+3. **Exploratory Data Analysis** — univariate and bivariate analysis to characterise distributions and relationships
+4. **Factor Analysis** — dimensionality reduction to three latent factors; factor scores saved to `yearly_country_factor_scores.csv`
+5. **Cluster Analysis** — country grouping based on factor scores to identify sustainability profiles
+```
 
 Full detail in [`WhichEUcountryGreenT.pdf`](./WhichEUcountryGreenT.pdf).
 
