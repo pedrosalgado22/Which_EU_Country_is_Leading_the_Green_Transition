@@ -16,14 +16,14 @@ A multivariate Data Analysis project, examining sustainability performance acros
 
 ## Repository Contents
 
-`projectguidelines` — course guidelines for the project.  
-`WhichEUcountryGreenT.pdf` — final report.  
-`ee25-originaldataindicators-data-csv.zip` — the raw dataset downloaded from the EEA.  
-`merged project data.xlsx` — the cleaned and merged dataset used for analysis.  
-`yearly_country_factor_scores.csv` — country factor scores produced by the Factor Analysis and used as input for clustering.  
-`notebook1.ipynb` — Exploratory Data Analysis and Factor Analysis, by me.  
-`notebook2.ipynb` — Cluster Analysis, by me and Pedro Ramalho.
-`teachersannotations.md` — Teacher's improvements suggestions
+1. `projectguidelines` — course guidelines for the project
+2. `WhichEUcountryGreenT.pdf` — final report
+3. `ee25-originaldataindicators-data-csv.zip` — raw dataset downloaded from the EEA
+4. `merged project data.xlsx` — cleaned and merged dataset used for analysis
+5. `yearly_country_factor_scores.csv` — country factor scores produced by the Factor Analysis and used as input for clustering
+6. `notebook1.ipynb` — Exploratory Data Analysis and Factor Analysis, by Pedro Salgado
+7. `notebook2.ipynb` — Cluster Analysis, by Pedro Salgado and Pedro Ramalho
+8. `teachersannotations` — teacher's improvement suggestions
 
 ---
 
