@@ -1,6 +1,8 @@
 # Which EU Country is Leading the Green Transition?
 
-A multivariate data analysis project examining sustainability performance across 27 EU member states over three time periods (2018, 2020, 2022), using Factor Analysis and Cluster Analysis to identify which countries are leading — and which are falling behind — Europe's green transition.
+![Image](https://github.com/user-attachments/assets/e55bd771-c594-4b4b-a134-ea961ded162b)
+
+A multivariate Data Analysis project, examining sustainability performance across 27 EU member states over three time periods (2018, 2020, 2022), using Factor and Cluster Analysis to identify which countries are leading (and which are falling behind) Europe's green transition.
 
 **Course:** Data Analysis 2025/2026 — Nova IMS, Universidade Nova de Lisboa
 
@@ -8,19 +10,20 @@ A multivariate data analysis project examining sustainability performance across
 
 ## Research Question
 
-*Which European Union countries are best positioned to lead the green transition, and which risk falling behind the EU's climate and sustainability targets?*
+*Which European Union countries leading Europe's green transition, and which risk falling behind the EU's climate and sustainability targets?*
 
 ---
 
 ## Repository Contents
 
-`projectguidelines` — Nova IMS course guidelines for the project.  
-`WhichEUcountryGreenT.pdf` — the final report.  
-`ee25-originaldataindicators-data-csv.zip` — the raw dataset as downloaded from the EEA.  
+`projectguidelines` — course guidelines for the project.  
+`WhichEUcountryGreenT.pdf` — final report.  
+`ee25-originaldataindicators-data-csv.zip` — the raw dataset downloaded from the EEA.  
 `merged project data.xlsx` — the cleaned and merged dataset used for analysis.  
-`yearly_country_factor_scores.csv` — country factor scores produced by the Factor Analysis, used as input for clustering.  
-`notebook1.ipynb` — Exploratory Data Analysis and Factor Analysis, by Pedro Salgado.  
-`notebook2.ipynb` — Cluster Analysis, by Pedro Salgado and Pedro Ramalho.
+`yearly_country_factor_scores.csv` — country factor scores produced by the Factor Analysis and used as input for clustering.  
+`notebook1.ipynb` — Exploratory Data Analysis and Factor Analysis, by me.  
+`notebook2.ipynb` — Cluster Analysis, by me and Pedro Ramalho.
+`teachersannotations.md` — Teacher's improvements suggestions
 
 ---
 
@@ -71,7 +74,7 @@ Full detail in [`WhichEUcountryGreenT.pdf`](./WhichEUcountryGreenT.pdf).
 
 Three latent factors emerged from the analysis — **Eco-Innovation & Green Industry (EIGI)**, **Social Equity & Energy Vulnerability (SEEV)** and **Clean Environment & Ecosystem Protection (CEEP)** — which were used to cluster all 27 member states into four distinct sustainability profiles.
 
-<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/0ec88ba0-64c0-46cb-b6c0-5c70aec0e992" />
+<img width="754" height="758" alt="Image" src="https://github.com/user-attachments/assets/89d807db-3349-45c7-bbbc-832249e2f0e4" />
 
 **Cluster 1 — Sustainability Lagging Countries**  
 Belgium, Croatia, Czechia, France, Germany, Hungary, Ireland, Italy, Malta, Netherlands, Poland, Romania, Slovakia, Slovenia, Spain
@@ -84,6 +87,12 @@ Denmark, Latvia, Sweden
 
 **Cluster 4 — Green Economic and Innovation Leaders**  
 Austria, Estonia, Finland, Luxembourg
+
+
+<img width="1390" height="523" alt="Image" src="https://github.com/user-attachments/assets/c2580c60-e036-4659-b087-da1ee4f45fa4" />
+
+
+
 
 ---
 
