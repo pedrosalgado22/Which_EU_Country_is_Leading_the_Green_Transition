@@ -2,8 +2,7 @@
 
 A multivariate data analysis project examining sustainability performance across 27 EU member states over three time periods (2018, 2020, 2022), using Factor Analysis and Cluster Analysis to identify which countries are leading — and which are falling behind — Europe's green transition.
 
-**Course:** Data Analysis 2025/2026 — Nova IMS, Universidade Nova de Lisboa  
-**Authors:** Pedro Salgado · Pedro Ramalho
+**Course:** Data Analysis 2025/2026 — Nova IMS, Universidade Nova de Lisboa
 
 ---
 
@@ -71,6 +70,8 @@ Full detail in [`WhichEUcountryGreenT.pdf`](./WhichEUcountryGreenT.pdf).
 ## Key Findings
 
 Three latent factors emerged from the analysis — **Eco-Innovation & Green Industry (EIGI)**, **Social Equity & Energy Vulnerability (SEEV)** and **Clean Environment & Ecosystem Protection (CEEP)** — which were used to cluster all 27 member states into four distinct sustainability profiles.
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/0ec88ba0-64c0-46cb-b6c0-5c70aec0e992" />
 
 **Cluster 1 — Sustainability Lagging Countries**  
 Belgium, Croatia, Czechia, France, Germany, Hungary, Ireland, Italy, Malta, Netherlands, Poland, Romania, Slovakia, Slovenia, Spain
