@@ -76,17 +76,23 @@ Three latent factors emerged from the analysis — **Eco-Innovation & Green Indu
 
 <img width="754" height="758" alt="Image" src="https://github.com/user-attachments/assets/89d807db-3349-45c7-bbbc-832249e2f0e4" />
 
+
 **Cluster 1 — Sustainability Lagging Countries**  
+
 Belgium, Croatia, Czechia, France, Germany, Hungary, Ireland, Italy, Malta, Netherlands, Poland, Romania, Slovakia, Slovenia, Spain
 
 **Cluster 2 — Energy-Vulnerable and Unequal Countries**  
+
 Bulgaria, Cyprus, Greece, Lithuania, Portugal
 
 **Cluster 3 — Environmental Quality Leaders**  
+
 Denmark, Latvia, Sweden
 
 **Cluster 4 — Green Economic and Innovation Leaders**  
+
 Austria, Estonia, Finland, Luxembourg
+
 
 
 <img width="1390" height="523" alt="Image" src="https://github.com/user-attachments/assets/c2580c60-e036-4659-b087-da1ee4f45fa4" />
@@ -105,6 +111,8 @@ Austria, Estonia, Finland, Luxembourg
 | `pandas` | Data manipulation |
 | `numpy` | Numerical operations |
 | `scikit-learn` | Preprocessing, PCA, clustering |
+| `scipy` | Hierarchical clustering and distance metrics |
+| `feature_engine` | Outlier treatment (Winsorizer) |
 | `matplotlib` / `seaborn` | Visualisation |
 | `factor_analyzer` | Factor Analysis, KMO, Bartlett's test, rotation |
 | `pingouin` | Statistical testing |
