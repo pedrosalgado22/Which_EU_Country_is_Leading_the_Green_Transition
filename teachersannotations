@@ -1,0 +1,20 @@
+# teachers annotations to incorporate and improve the project at a later date:
+
+Bom dia Pedro,
+
+Espero que o Natal tenha sido bom!
+
+Claro, seguem aqui algumas notas que tenho:
+
+É sempre muito útil especificar as unidades de medida nas variáveis todas (quer seja na descrição ou numa coluna à parte), para sabermos se estamos a trabalhar com valores absolutos, percentagens, etc... 
+Podiam ter mencionado exatamente quais os outliers que consideraram (ou, neste caso, que não consideraram extremos), ou ter mostrado boxplots (nem que seja nos anexos)
+Uma communality bastante baixa (fossil fuel subsidies)
+O loading desta variável (fossil fuel subsidies) também ficou abaixo do threshold normalmente considerado (0,5)
+Rotação depois da escolha do número de fatores. Deviam fazer esta escolha depois de comparar as soluções já com a rotação.
+Não experimentaram números diferentes de clusters (ou, pelo menos, não o mencionaram no report)
+Ao colocar tabelas no report/apresentação, tentem incluir menos casas decimais (6 acaba por ser desnecessário e "noise")
+Para as próximas apresentações, não se esqueçam de incluir a numeração dos slides, é um pequeno detalhe com bastante importância para quem está a assistir!
+Apesar de ser bastante interessante experimentar visualizações novas, plots 3D acabam, por vezes, por ser confusos e pouco interpretáveis (sei que incluíram outros gráficos também, é só uma dica!)
+De qualquer forma, o vosso projeto está bastante bom e dou-vos os parabéns por todo o vosso trabalho! 🙂
+
+Continuação de boas festas,
