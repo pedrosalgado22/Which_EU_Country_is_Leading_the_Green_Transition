@@ -10,7 +10,7 @@ A multivariate Data Analysis project, examining sustainability performance acros
 
 ## Research Question
 
-*Which European Union countries leading Europe's green transition, and which risk falling behind the EU's climate and sustainability targets?*
+*Which European Union countries are leading Europe's green transition, and which risk falling behind the EU's climate and sustainability targets?*
 
 ---
 
