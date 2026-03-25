@@ -76,6 +76,10 @@ Three latent factors emerged from the analysis — **Eco-Innovation & Green Indu
 
 <img width="754" height="758" alt="Image" src="https://github.com/user-attachments/assets/89d807db-3349-45c7-bbbc-832249e2f0e4" />
 
+<img width="757" height="750" alt="Image" src="https://github.com/user-attachments/assets/7c7f6a45-2605-4aa8-827b-0c79232a3a2d" />
+
+<img width="765" height="750" alt="Image" src="https://github.com/user-attachments/assets/39db8521-a090-4cb6-a150-fa61645bda00" />
+
 
 **Cluster 1 — Sustainability Lagging Countries**  
 
@@ -97,7 +101,9 @@ Austria, Estonia, Finland, Luxembourg
 
 <img width="1390" height="523" alt="Image" src="https://github.com/user-attachments/assets/c2580c60-e036-4659-b087-da1ee4f45fa4" />
 
+<img width="1490" height="415" alt="Image" src="https://github.com/user-attachments/assets/7794d6d0-7269-42b3-8cb6-62932088bf50" />
 
+<img width="1492" height="416" alt="Image" src="https://github.com/user-attachments/assets/c9250559-e579-4375-80b8-a28289879978" />
 
 
 ---
